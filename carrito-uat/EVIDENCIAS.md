@@ -16,7 +16,7 @@ demostrando que las funciones principales del carrito operan como se esperaba.
 No se encontraron fallas durante la ejecución. Si en algún momento una prueba fallara, probablemente sería por errores 
 en la lógica de cálculo de totales, manejo de cantidades o validación al eliminar productos del carrito.
 
-Reflexión final
+**Reflexión final**
 
 Aprendimos que las pruebas de aceptación permiten validar las funcionalidades desde el punto de vista del usuario, 
 asegurando que cada historia cumpla con el comportamiento esperado. A diferencia de las pruebas unitarias, 
